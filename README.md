@@ -34,7 +34,7 @@ factor)를 가지고 있으며, 백설공주라는 유명 동화를 통해서 �
 ![스마트미러_DIY_키트_조립사진01](./02_해커톤_작업장면_및_시작품_촬영사진/스마트미러_DIY_키트_조립사진01.jpg)
 ![스마트미러_DIY_키트_조립사진02](./02_해커톤_작업장면_및_시작품_촬영사진/스마트미러_DIY_키트_조립사진02.jpg)
 ## 팀 소개 및 팀프로젝트 소개영상(10분 내외) : https://www.youtube.com/watch?v=CKjwMcjn5Q4
-[팀 소개 및 팀프로젝트 소개영상(10분 내외)](http://img.youtube.com/vi/CKjwMcjn5Q4/0.jpg)](https://youtu.be/CKjwMcjn5Q4?t=0s) 
+[![팀 소개 및 팀프로젝트 소개영상(10분 내외)(http://img.youtube.com/vi/CKjwMcjn5Q4/0.jpg)](https://youtu.be/CKjwMcjn5Q4?t=0s)
 
 ## 최종 발표 시작품 데모 영상(3분) : https://youtu.be/CS3GM4PvxM4
-[최종 발표 시작품 데모 영상(3분)](http://img.youtube.com/vi/CS3GM4PvxM4/0.jpg)](https://youtu.be/CS3GM4PvxM4?t=0s) 
+[![최종 발표 시작품 데모 영상(3분)(http://img.youtube.com/vi/CS3GM4PvxM4/0.jpg)](https://youtu.be/CS3GM4PvxM4?t=0s)
