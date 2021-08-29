@@ -1,7 +1,7 @@
 # 2021 하드웨어 해커톤 탑메이커
 
 ## 팀명 : AinPeople(팀장 : 강동훈, 팀원 : 임도현, 윤태경, 최준영), 팀저장소 : https://github.com/2021TopMaker-AinPeople
-## 프로젝트명 : AinMorror - 동화를 현실로 스마트미러 DIY 키트(feat. 백설공주)
+## 프로젝트명 : AinMirror - 동화를 현실로 스마트미러 DIY 키트(feat. 백설공주)
 ## AinMirror 프로젝트 소스코드 저장소 : https://github.com/2021TopMaker-AinPeople/AinMirror
 
 ## 프로젝트 주요내용
@@ -30,4 +30,5 @@ factor)를 가지고 있으며, 백설공주라는 유명 동화를 통해서 �
 ## 해커톤 작업장면 및 시작품 사진촬영 : 
 ## 팀 소개 및 팀프로젝트 소개영상(10분 내외) : https://www.youtube.com/watch?v=CKjwMcjn5Q4
 
-## 최종 발표 시작품 데모 영상(3분) : 
+## 최종 발표 시작품 데모 영상(3분) : https://youtu.be/CS3GM4PvxM4
+
